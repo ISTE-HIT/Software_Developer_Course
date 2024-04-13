@@ -19,7 +19,7 @@ Welcome to the repository for the ISTE Software Developer Course! You'll find al
 
 ## Additional Resources
 
-For additional resources and updates, please visit the [ISTE HIT Whatsapp channel](#) and [Video Recordings](#) (Link to recordings) repository.
+For additional resources and updates, please visit the [ISTE HIT Whatsapp channel](#) repository.
 
 ---
 
