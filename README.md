@@ -1,28 +1,82 @@
-# ISTE Software Developer Course 
-## by- Abhishek, Aayush &  Urooz
+# ISTE Software Developer Course
+### ~ Abhishek, Urooj and Aayush
 
-Welcome to the repository for the ISTE Software Developer Course! You'll find all the recordings organized day-wise along with comprehensive notes for each session.
-
-# Topic 1: Introduction to Full Stack Development
-## [Day 1: Introduction and Working of Internet](#day-1-introduction-to-software-development)
-  - [Day 1 Recording](https://www.loom.com/share/291cec8cd45f40cbbaeaac6a25049c5e) 
-  - [Day 2 Notes](#)
-   
-## [Day 2: Working of Network and Transport Layer Protocols](#day-1-introduction-to-software-development)
-  -  [Day 2 Recording](https://www.loom.com/share/d4acca28fd884c2c973e78bae83f512c)
-  - [Day 2 Notes](#) 
-
-# Topic 2: Object-Oriented Programming with Java
-
--  [Day 1 Recording](#)
--  [Day 1 Notes](#) 
-
-## Additional Resources
-
-For additional resources and updates, please visit the [ISTE HIT Whatsapp channel](#) repository.
+Welcome to the repository for the ISTE Software Developer Course! Here you'll find all the recordings organized day-wise along with comprehensive notes for each session.
 
 ---
 
-Feel free to contribute by adding more notes or recordings! Please open an issue or contact the course instructor if you have any questions or suggestions.
+## Table of Contents
+
+---
+| S.No    | Description              |
+|-----------|---------------------------|
+| 1  | [Introduction to Software Development & Internet Fundamentals](#topic-1-internet-fundamentals)   |
+| 2    | [HTML](#topic-2-all-about-html) |
+| 3    | [CSS](#topic2-css) |
+| 4    | [Javascript ❤️](#topic-2-programming-with-javascript) |
+| 5    | [Contribution Guidelines](#how-to-contribute) |
+
+
+# Topic-1 Internet Fundamentals  
+### Live Classes [Day 1](https://www.youtube.com/) | [Day 2](https://www.youtube.com/)
+## Day 1 - Git and Github
+
+  
+- **Assignment 1** : Create Git Github account and register for student developer pack at github
+
+### Notes ==============
+
+Notes to be written here...
+
+
+
+### Suggested Resources :
+1. Videos : [Git Github Hitesh](https://www.youtube.com/watch?v=tz82ola3oy0) |  [Advance Git Github](https://www.youtube.com/watch?v=qsTthZi23VE) |
+2. Articles :  [Squash](https://www.squash.io/git-tutorial-from-basics-to-advanced-concepts/)
+
+
+------
+--- END OF Internet Fundamentals MODULE ------
+
+------
+
+
+## How to Contribute
+### Templates to work on:
+```each-chapter-template
+# Topic-1 Internet Fundamentals  
+### Live Classes [Day 1](https://www.youtube.com/) | [Day 2](https://www.youtube.com/)
+## Day 1 - Git and Github
+
+  
+- **Assignment 1** : Create Git Github account and register for student developer pack at github
+
+### Notes ==============
+
+Notes to be written here...
+
+
+
+### Suggested Resources :
+1. Videos : [Git Github Hitesh](https://www.youtube.com/watch?v=tz82ola3oy0) |  [Advance Git Github](https://www.youtube.com/watch?v=qsTthZi23VE) |
+2. Articles :  [Squash](https://www.squash.io/git-tutorial-from-basics-to-advanced-concepts/)
+
+
+------
+--- END OF Internet Fundamentals MODULE ------
+
+------
+
+```
+
+#### Branches
+
+- **Main Branch**: This branch contains the most recent stable version of the course materials. It's kept simple and beautiful for easy navigation and reference by students.
+
+- **Topic Branches**: For each major topic covered in the course, there's a dedicated branch. Tutors and contributors can work on these branches to develop and refine course content. Once the changes are ready, they can be merged into the main branch.
+
+---
+
+Feel free to contribute by adding more notes or recordings! If you have any questions or suggestions, please open an issue or contact the course instructor.
 
 Happy learning! 🚀
