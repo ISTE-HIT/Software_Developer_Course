@@ -3,7 +3,7 @@
 
 Welcome to the repository for the ISTE Software Developer Course! You'll find all the recordings organized day-wise along with comprehensive notes for each session.
 
-## Topic 1: Introduction to Software Development & Full Stack Development
+## Topic 1: Introduction to Full Stack Development
 # [Day 1: Introduction and Working of Internet](#day-1-introduction-to-software-development)
   - [Day 1 Recording](https://www.loom.com/share/291cec8cd45f40cbbaeaac6a25049c5e) 
   - Notes: [Day 2 Notes](#) (Link to notes)
