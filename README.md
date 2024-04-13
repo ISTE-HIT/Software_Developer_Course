@@ -3,19 +3,19 @@
 
 Welcome to the repository for the ISTE Software Developer Course! You'll find all the recordings organized day-wise along with comprehensive notes for each session.
 
-## Topic 1: Introduction to Full Stack Development
-# [Day 1: Introduction and Working of Internet](#day-1-introduction-to-software-development)
+# Topic 1: Introduction to Full Stack Development
+## [Day 1: Introduction and Working of Internet](#day-1-introduction-to-software-development)
   - [Day 1 Recording](https://www.loom.com/share/291cec8cd45f40cbbaeaac6a25049c5e) 
-  - Notes: [Day 2 Notes](#) (Link to notes)
+  - [Day 2 Notes](#)
    
-# [Day 2: Working of Network and Transport Layer Protocols](#day-1-introduction-to-software-development)
+## [Day 2: Working of Network and Transport Layer Protocols](#day-1-introduction-to-software-development)
   -  [Day 2 Recording](https://www.loom.com/share/d4acca28fd884c2c973e78bae83f512c)
-  - Notes: [Day 2 Notes](#) (Link to notes)
+  - [Day 2 Notes](#) 
 
-## Topic 2: Object-Oriented Programming with Java
+# Topic 2: Object-Oriented Programming with Java
 
-- Recording: [Day 2 Recording](#) (Link to recording)
-- Notes: [Day 2 Notes](#) (Link to notes)
+-  [Day 1 Recording](#)
+-  [Day 1 Notes](#) 
 
 ## Additional Resources
 
