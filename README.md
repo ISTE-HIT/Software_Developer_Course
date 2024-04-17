@@ -17,22 +17,55 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 | 5    | [Contribution Guidelines](#how-to-contribute) |
 
 
-# Topic-1 Internet Fundamentals  
+# Topic-1 Internet Fundamentals
+
 ### Live Classes [Day 1](https://www.youtube.com/) | [Day 2](https://www.youtube.com/)
+
 ## Day 1 - Git and Github
 
-  
-- **Assignment 1** : Create Git Github account and register for student developer pack at github
+- What is Git and Github ?
+- Installing Git and Creating a new account.
+- Some basic commands used in Git.
+- How to merge two branches in Git ?
+- Creating a new Github account.
+- Steps for creating a pull request.
 
-### Notes ==============
+  ### Notes ==============
+  - Get access to the notes from the following link below :-
 
-Notes to be written here...
+    [https://drive.google.com/file/d/1YspFaTKu-pG4XtImakwpq69tUY1c_mrR/view](https://drive.google.com/file/d/1YspFaTKu-pG4XtImakwpq69tUY1c_mrR/view)
 
+  ### Suggested Resources :
+  - Recommended Video :  [https://youtu.be/apGV9Kg7ics?si=K0oTnfbQnaAGOHTy](https://youtu.be/apGV9Kg7ics?si=K0oTnfbQnaAGOHTy)
+  - Videos : [Git Github Hitesh](https://www.youtube.com/watch?v=tz82ola3oy0) |  [Advance Git Github](https://www.youtube.com/watch?v=qsTthZi23VE)
+  - Articles :  [Squash](https://www.squash.io/git-tutorial-from-basics-to-advanced-concepts/)
 
+## Day 2 - Client server Architecture and Basics of Networking.
 
-### Suggested Resources :
-1. Videos : [Git Github Hitesh](https://www.youtube.com/watch?v=tz82ola3oy0) |  [Advance Git Github](https://www.youtube.com/watch?v=qsTthZi23VE) |
-2. Articles :  [Squash](https://www.squash.io/git-tutorial-from-basics-to-advanced-concepts/)
+- What is Client and Server ?
+- Some Basic fundamentals of Networking.
+- What is TCP ?
+- What is UDP ?
+- How is a TCP connection Established ?
+- How is a TCP connection Terminated ?
+- Different types of Network.
+- What is IP address and MAC address ?
+- What is a Network Interface Card ?
+- Details about HTTP and its history.
+- Some HTTP methods.
+- What is HTTPS ?
+- Basic concept of Encryption.
+
+  ### Notes ==============
+  - Get access to the notes from the following link below :-
+
+    [https://drive.google.com/file/d/1YehGlrqfMRyAbXqde7mCAiGSBoUvK1qO/view](https://drive.google.com/file/d/1YehGlrqfMRyAbXqde7mCAiGSBoUvK1qO/view)
+
+  ### Suggested Resources :
+  - Live Class Recordings :-
+    1. DAY 1 -[https://www.loom.com/share/291cec8cd45f40cbbaeaac6a25049c5e](https://www.loom.com/share/291cec8cd45f40cbbaeaac6a25049c5e)
+    2. DAY 2 - [https://www.loom.com/share/d4acca28fd884c2c973e78bae83f512c](https://www.loom.com/share/d4acca28fd884c2c973e78bae83f512c)
+  - Recommended Videos : [https://drive.google.com/file/d/19HiNM1-S8Rve-GYnJmdFliwbXuz0t0hv/view](https://drive.google.com/file/d/19HiNM1-S8Rve-GYnJmdFliwbXuz0t0hv/view)
 
 
 ------
