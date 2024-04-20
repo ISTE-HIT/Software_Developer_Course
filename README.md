@@ -72,6 +72,102 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 --- END OF Internet Fundamentals MODULE ------
 
 ------
+# Topic-2  HTML
+
+## Day-4  HTML tags
+
+- Difference between Website and Web Application.
+- Difference between static web page and dynamic web page.
+- What is Web Server?
+- Opening tags and closing tags in HTML.
+- Parired and Non-paired tag.
+- Tags in HTMl: 
+   1. Html tag - 
+
+      ```html
+      <html>
+      </html>
+      ```
+   2. Head tag - 
+
+      ```html
+      <head>
+      </head>
+      ```
+   3. Title tag - 
+
+      ```html
+      <title>Amazon Clone</title>
+      ```
+   4. Body tag - 
+
+      ```html
+      <body>
+      	Body Codes here
+      </body>
+      ```
+   5. Image tag - 
+
+      ```html
+      <img style="width: 90px;" src="images/download.jpeg" alt="frog image">
+      ```
+   6. Heading tags - 
+
+      ```html
+      <h1>Amazon Clone</h1>
+      <h2>Amazon Clone</h2>
+      <h3>Amazon Clone</h3>
+      <h4>Amazon Clone</h4>
+      <h5>Amazon Clone</h5>
+      <h6>Amazon Clone</h6>
+      ```
+   7. Paragraph tag - 
+
+      ```html
+      <p> Paragraph Write here </p>
+      ```
+   8. Div tag - 
+
+      ```html
+      <div>Write box content here</div>
+      ```
+   9. Form tag - 
+
+      ```html
+      <form>
+      	Form code here
+      </form>
+      ```
+  10. Button tag - 
+
+      ```html
+      <button>Submit</button>
+      ```
+  11. Label tag - 
+
+      ```html
+      <label for="name">Name</label>
+      ```
+  12. Input tag - 
+
+      ```html
+      <input type="text">
+      ```
+  13. iframe tag - 
+
+      ```html
+      <iframe  src="https://www.youtube.com/embed/KLlXCFG5TnA?si=Qxqf1WIriB4pEUX3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          
+      ```
+      ### Notes ==============
+  - Get access to the notes from the following link below :-
+
+    []
+
+  ### Suggested Resources :
+  - Live Class Recordings :-
+    1. Day 4 - https://www.loom.com/share/8aa8ba145b1f4746998a7a7cb20fa42a
+  - Recommended Videos : [https://youtu.be/HcOc7P5BMi4?si=T03UKpSt1K3TLTT9]
 
 
 ## How to Contribute
