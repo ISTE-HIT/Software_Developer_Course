@@ -169,6 +169,10 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
     1. Day 4 - https://www.loom.com/share/8aa8ba145b1f4746998a7a7cb20fa42a
   - Recommended Videos : [https://youtu.be/HcOc7P5BMi4?si=T03UKpSt1K3TLTT9]
 
+------
+--- END OF HTML ------
+
+------
 
 ## How to Contribute
 ### Templates to work on:
