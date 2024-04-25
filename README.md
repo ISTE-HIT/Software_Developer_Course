@@ -172,8 +172,97 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
     1. Day 4 - https://www.loom.com/share/8aa8ba145b1f4746998a7a7cb20fa42a
   - Recommended Videos : [https://youtu.be/HcOc7P5BMi4?si=T03UKpSt1K3TLTT9]
 
+## Day-5 Tables and basics of CSS
+
+- What is Table in HTML?
+- Whae are the different attributes in table?
+- Whar are inline and block elements?
+- Tags in Table:-
+
+  ```html
+  <table>  </table>
+  ```
+  1. Table Row tag -
+
+     ```html
+     <tr>  </tr>
+     ```
+  2. Table Data:-
+
+     ```html
+     <td>  </td> 
+     ```
+  3. Table Header:-
+
+     ```html
+     <thead>  </thead>
+     ```
+  4. Table Footer:-
+
+  ```html
+  <tfoot>  </tfoot>
+  ```
+
+ 5. Caption tag:-
+
+    ```html
+    <caption> </caption>
+    ```
+ 6. Rowspan Attribute:-
+
+    ```html
+    <td rowspan='2'> </td>
+    ```
+ 7. Colspan attribute :-
+
+    ```html
+    <td colspan='2'> </td>
+    ```
+ 8. Div tag:-
+
+    ```html
+    <div>  </div>
+    ```
+ 9. Span tag:-
+
+    ```html
+    <span>  </span>
+    ```
+10. Body tag:- 
+
+    ```html
+    <tbody>  </tbody>
+    ```
+
+    
+
 ------
 --- END OF HTML ------
+
+------
+#Topic-2 CSS
+## Introduction to CSS:-
+
+    - What is CSS?
+    - What are selectors and declaration in CSS?
+    - Types of CSS and its priority order?
+    - Types of selectors.
+    - Border and its properties.
+    - Box model in CSS.
+    - What is margin,border, and padding in box element.
+
+### Notes ==============
+  - Get access to the notes from the following link below :-
+   [https://drive.google.com/drive/folders/14fCOs39Xk_dy2IdTyUDyWff9AuWkD3em]
+    
+
+  ### Suggested Resources :
+  - Live Class Recordings :-
+    1. Day 5 - [https://drive.google.com/file/d/1D0Qi7dGpqBr0yxC_aNzJFCF1031cpBOD/view?usp=drive_link]
+  - Recommended Videos : [https://youtu.be/WuiB5TAQOAM?si=_pbWTJfAfR-YSBwz]
+  [https://youtu.be/K1naz9wBwKU?si=BfVxBOmbdBVQ6-Mb]
+------
+--- END OF CSS ------
 
 ------
 
