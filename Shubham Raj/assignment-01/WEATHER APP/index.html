@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Weather</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+    </style>
+</head>
+
+<body>
+
+    <div class="preload" id="preloader">
+        <img src="preloaderfinal.gif" alt="preload" class="pl">
+    </div>
+
+    <div class="contMain">
+        
+
+        <div class="display_info">
+            <div class="sec1">
+                <div class="secin">
+
+                    <div class="tempdetails">
+                        <div class="temp">
+                            <img style="width: 100px;" class="mood">
+                            <div class="tempmain">
+                                <div class="tmain" style="font-weight: bolder;">--</div>
+                                <p style="margin-top: -10px;">°</p>
+                            </div>
+                        </div>
+                        <div class="wloc" style="font-weight: bold;">--</div>
+                        <div class="minmaxt">
+                            <div style="display: flex; align-items: center; gap: 5px;">
+                                <img src="high-temperature-icon.svg" alt="high" style="height: 38px;">
+                                <p>Max. Temp. : </p>
+                                <div class="maxt">--</div>
+                                <p>°C</p>
+                            </div>
+
+                            <div style="display: flex; align-items: center; gap: 5px;">
+                                <img src="low-temperature-icon.svg" alt="high" style="height: 38px;">
+                                <p>Min. Temp. : </p>
+                                <div class="mint">--</div>
+                                <p>°C</p>
+                            </div>
+                        </div>
+                        <div class="feels" style="display: flex; align-items: center; gap: 5px;">
+                            <img src="temperatures.png" alt="high" style="height: 25px;">
+                            <p>Feels Like : </p>
+                            <div class="feelsin">--</div>
+                            <p>°C</p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="sec2">
+
+                <div class="inputfield">
+                    <input type="text" id="txt_in" placeholder="Enter Any Location" class="txtinput">
+                    <div id="search" class="but">
+                        <img src="search-svgrepo-com.svg" alt="search" height="25px">
+                    </div>
+                </div>
+
+                <div class="sec2inner">
+                    <div class="box">
+                        <div class="sbox1 sbox">
+                            <div class="ntag">Wind Speed
+                                <img src="wind (1).png" alt="wind" class="logos">
+                            </div>
+
+                            <div class="wind">--</div>
+                        </div>
+                        <div class="sbox2 sbox">
+                            <div class="ntag">Humidity
+                                <img src="humidity.png" alt="humidity" class="logos">
+                            </div>
+
+                            <div class="humidity">--</div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <div class="sbox3 sbox">
+                            <div class="ntag">Pressure
+                                <img src="atmospheric.png" alt="Sun" class="logos">
+                            </div>
+
+                            <div class="press">--</div>
+                        </div>
+
+                        <div class="sbox4 sbox">
+                            <div class="ntag">Wind Direction
+                                <img src="wind-direction.png" alt="Sun" class="logos">
+                            </div>
+
+                            <div class="direc">--</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="contAlert">
+        <div class="alert">
+            <p>Invalid Location Please try again </p>
+            <img src="icons8-double-exclamation-mark-48.png" alt="exclamation" style="height: 38px">
+        </div>
+    </div>
+
+
+    <script>
+
+        var loader = document.getElementById("preloader");
+
+        window.addEventListener("load", () => {
+            loader.style.display = "none";
+        })
+    </script>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
