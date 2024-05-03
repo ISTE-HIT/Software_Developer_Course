@@ -11,13 +11,15 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 | S.No    | Description              |
 |-----------|---------------------------|
 | 1  | [Introduction to Software Development & Internet Fundamentals](#topic-1-internet-fundamentals)   |
-| 2    | [HTML](#topic-2-all-about-html) |
-| 3    | [CSS](#topic2-css) |
-| 4    | [Javascript ❤️](#topic-2-programming-with-javascript) |
+| 2    | [HTML](#Topic-2--HTML) |
+| 3    | [CSS](#topic-3-css) |
+| 4    | [Javascript ❤️](#topic-4-javascript) |
 | 5    | [Contribution Guidelines](#how-to-contribute) |
 
 
 # Topic-1 Internet Fundamentals
+
+- [ALL Contents](#table-of-contents)
 
 ### Live Classes [Day 1](https://www.youtube.com/) | [Day 2](https://www.youtube.com/)
 
@@ -63,9 +65,11 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 
   ### Suggested Resources :
   - Live Class Recordings :-
-    1. DAY 1 -[https://www.loom.com/share/291cec8cd45f40cbbaeaac6a25049c5e](https://www.loom.com/share/291cec8cd45f40cbbaeaac6a25049c5e)
-    2. DAY 2 - [https://www.loom.com/share/d4acca28fd884c2c973e78bae83f512c](https://www.loom.com/share/d4acca28fd884c2c973e78bae83f512c)
-  - Recommended Videos : [https://drive.google.com/file/d/19HiNM1-S8Rve-GYnJmdFliwbXuz0t0hv/view](https://drive.google.com/file/d/19HiNM1-S8Rve-GYnJmdFliwbXuz0t0hv/view)
+    1. [DAY 1](https://www.loom.com/share/291cec8cd45f40cbbaeaac6a25049c5e)
+
+    2. [DAY 2](https://www.loom.com/share/d4acca28fd884c2c973e78bae83f512c)
+
+  - Recommended Videos : [Watch out](https://drive.google.com/file/d/19HiNM1-S8Rve-GYnJmdFliwbXuz0t0hv/view)
 
 
 ------
@@ -74,7 +78,9 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 ------
 # Topic-2  HTML
 
-## Day-4  HTML tags
+- [ALL Contents](#table-of-contents)
+
+## Day-4  HTML
 
 - What is HTML?
 - Difference between Website and Web Application.
@@ -169,7 +175,8 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 
   ### Suggested Resources :
   - Live Class Recordings :-
-    1. Day 4 - https://www.loom.com/share/8aa8ba145b1f4746998a7a7cb20fa42a
+    1. [Day 4](https://www.loom.com/share/8aa8ba145b1f4746998a7a7cb20fa42a)
+
   - Recommended Videos : [https://youtu.be/HcOc7P5BMi4?si=T03UKpSt1K3TLTT9]
 
 ## Day-5 Tables and basics of CSS
@@ -240,7 +247,10 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 --- END OF HTML ------
 
 ------
-#Topic-2 CSS
+# Topic-3 CSS
+
+- [ALL Contents](#table-of-contents)
+
 ## Introduction to CSS:-
 
     - What is CSS?
@@ -258,19 +268,29 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 
   ### Suggested Resources :
   - Live Class Recordings :-
-    1. Day 5 - [https://drive.google.com/file/d/1D0Qi7dGpqBr0yxC_aNzJFCF1031cpBOD/view?usp=drive_link]
+    1.[Day 5](https://drive.google.com/file/d/1D0Qi7dGpqBr0yxC_aNzJFCF1031cpBOD/view?usp=drive_link)
+
   - Recommended Videos : [https://youtu.be/WuiB5TAQOAM?si=_pbWTJfAfR-YSBwz]
   [https://youtu.be/K1naz9wBwKU?si=BfVxBOmbdBVQ6-Mb]
 ------
 --- END OF CSS ------
 
+# Topic-4 Javascript
+
+- [ALL Contents](#table-of-contents)
+
+- [Day 6 video](https://drive.google.com/file/d/1-8G6hRcTub9ocRShVrNWBch6v2UrJL3B/view?usp=drivesdk)
+
+- Updates are on the way..... 
+
 ------
 
 ## How to Contribute
 ### Templates to work on:
-```each-chapter-template
+- each-chapter-template
 # Topic-1 Internet Fundamentals  
 ### Live Classes [Day 1](https://www.youtube.com/) | [Day 2](https://www.youtube.com/)
+
 ## Day 1 - Git and Github
 
   
