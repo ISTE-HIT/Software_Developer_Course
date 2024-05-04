@@ -11,8 +11,8 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 | S.No    | Description              |
 |-----------|---------------------------|
 | 1  | [Introduction to Software Development & Internet Fundamentals](#topic-1-internet-fundamentals)   |
-| 2    | [HTML](#topic-2-all-about-html) |
-| 3    | [CSS](#topic2-css) |
+| 2    | [HTML](#topic-2--html) |
+| 3    | [CSS](#topic-3-css) |
 | 4    | [Javascript ❤️](#topic-2-programming-with-javascript) |
 | 5    | [Contribution Guidelines](#how-to-contribute) |
 
