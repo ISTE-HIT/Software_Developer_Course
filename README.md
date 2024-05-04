@@ -240,7 +240,7 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 --- END OF HTML ------
 
 ------
-#Topic-2 CSS
+#Topic-3 CSS
 ## Introduction to CSS:-
 
     - What is CSS?
