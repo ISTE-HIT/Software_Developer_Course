@@ -261,8 +261,33 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
     1. Day 5 - [https://drive.google.com/file/d/1D0Qi7dGpqBr0yxC_aNzJFCF1031cpBOD/view?usp=drive_link]
   - Recommended Videos : [https://youtu.be/WuiB5TAQOAM?si=_pbWTJfAfR-YSBwz]
   [https://youtu.be/K1naz9wBwKU?si=BfVxBOmbdBVQ6-Mb]
+
 ------
 --- END OF CSS ------
+
+
+# Introduction to Tailwind CSS
+```
+- What is Tailwind CSS?
+- What are utility classes? Why use utility classes?
+- How does Tailwind handle responsive design?
+- What is tailwind.config.js? How do you customize Tailwind using the configuration file?
+- How do you set up Tailwind in a project?
+- What is PurgeCSS, and why is it important?
+- What is Just-In-Time (JIT) mode in Tailwind?
+```
+
+## NOTES:-
+  - Will be provided Soon.........
+
+## Suggested Resources:-
+  - Live Class recording:-
+      1.Day 6- [https://www.youtube.com/watch?v=4lFNWQGxR7U]
+
+  - College Wallah-Tailwind CSS Tutorial For Beginners [https://www.youtube.com/watch?v=_9mTJ84uL1Q]
+    
+------
+--- END OF TAILWIND CSS ------
 
 # Topic-4-JavaScript
 
@@ -282,9 +307,8 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 
 ### Suggested Resources :
 - Live Class recording :-
-  1. Day 6 -[https://drive.google.com/file/d/1-8G6hRcTub9ocRShVrNWBch6v2UrJL3B/view?usp=drivesdk]
-  2. Day 7 - link will be provided soon......
-     
+  1. Day 7 - [https://youtu.be/VAGX3Y7dw8U]
+
 - Apna college basics to pro JavaScript - [https://youtu.be/VlPiVmYuoqw?si=ckzUE0rpxb7mctNs]
 ------
 -----End of JavaScript------
