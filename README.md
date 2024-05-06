@@ -13,7 +13,7 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 | 1  | [Introduction to Software Development & Internet Fundamentals](#topic-1-internet-fundamentals)   |
 | 2    | [HTML](#topic-2--html) |
 | 3    | [CSS](#topic-3-css) |
-| 4    | [Javascript ❤️](#topic-2-programming-with-javascript) |
+| 4    | [Javascript ❤️](#Topic-4-JavaScript) |
 | 5    | [Contribution Guidelines](#how-to-contribute) |
 
 
@@ -261,11 +261,57 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
     1. Day 5 - [https://drive.google.com/file/d/1D0Qi7dGpqBr0yxC_aNzJFCF1031cpBOD/view?usp=drive_link]
   - Recommended Videos : [https://youtu.be/WuiB5TAQOAM?si=_pbWTJfAfR-YSBwz]
   [https://youtu.be/K1naz9wBwKU?si=BfVxBOmbdBVQ6-Mb]
+
 ------
 --- END OF CSS ------
 
-------
 
+# Introduction to Tailwind CSS
+```
+- What is Tailwind CSS?
+- What are utility classes? Why use utility classes?
+- How does Tailwind handle responsive design?
+- What is tailwind.config.js? How do you customize Tailwind using the configuration file?
+- How do you set up Tailwind in a project?
+- What is PurgeCSS, and why is it important?
+- What is Just-In-Time (JIT) mode in Tailwind?
+```
+
+## NOTES:-
+  - Will be provided Soon.........
+
+## Suggested Resources:-
+  - Live Class recording:-
+      1.Day 6- [https://www.youtube.com/watch?v=4lFNWQGxR7U]
+
+  - College Wallah-Tailwind CSS Tutorial For Beginners [https://www.youtube.com/watch?v=_9mTJ84uL1Q]
+    
+------
+--- END OF TAILWIND CSS ------
+
+# Topic-4-JavaScript
+
+## Introduction to JavaScript:-
+~~~
+  - What is JavaScript?
+  - How do you declare variables in JavaScript?
+  - What data types does JavaScript support? What are the different types of operators in JavaScript?
+  - What are common control structures in JavaScript?
+  - How do you declare and call functions?
+  - How do you create and manipulate arrays?
+~~~
+
+### Notes :-
+
+- Will be uploaded Soon.......
+
+### Suggested Resources :
+- Live Class recording :-
+  1. Day 7 - [https://youtu.be/VAGX3Y7dw8U]
+
+- Apna college basics to pro JavaScript - [https://youtu.be/VlPiVmYuoqw?si=ckzUE0rpxb7mctNs]
+------
+-----End of JavaScript------
 ## How to Contribute
 ### Templates to work on:
 ```each-chapter-template
