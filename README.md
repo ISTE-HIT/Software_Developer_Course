@@ -290,7 +290,7 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 --- END OF TAILWIND CSS ------
 
 # Topic-4-JavaScript
-
+## DAY - 8 - JAVASCRIPT INTRODUCTION
 ## Introduction to JavaScript:-
 ~~~
   - What is JavaScript?
@@ -307,11 +307,46 @@ Welcome to the repository for the ISTE Software Developer Course! Here you'll fi
 
 ### Suggested Resources :
 - Live Class recording :-
-  1. Day 7 - [https://youtu.be/VAGX3Y7dw8U]
+  1. Day 8 - [https://youtu.be/VAGX3Y7dw8U]
 
 - Apna college basics to pro JavaScript - [https://youtu.be/VlPiVmYuoqw?si=ckzUE0rpxb7mctNs]
+
+## DAY - 9 - JAVASCRIPT ARRAY AND FUNCTION
+
+- Array and its functions
+- Function in Javascript :- 
+  1. Mtehod 1 :- 
+
+     ```javascript
+     function add (num1,num2){
+     	return num1+num2
+     }
+     ```
+  2. Method 2 :- 
+
+     ```javascript
+     const add = (num1,num2) =>{
+     	return num1+num2
+     }
+     ```
+  3. Method 3:- 
+
+     ```javascript
+     const add = function add(num1,num2){
+     	return num1+num2
+     }
+     ```
+- Get access to the notes from the following link below :-
+
+    []
+
+  ### Suggested Resources :
+  - Live Class Recordings :-
+    1. Day 9 - [https://youtu.be/0f1d03EpUe4] 
+  - Recommended Videos : [https://www.youtube.com/watch?v=gFWhbjzowrM&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW&index=4&ab_channel=ShradhaKhapra] [https://www.youtube.com/watch?v=P0XMXqDGttU&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW&index=5&ab_channel=ShradhaKhapra]
 ------
 -----End of JavaScript------
+------
 ## How to Contribute
 ### Templates to work on:
 ```each-chapter-template
