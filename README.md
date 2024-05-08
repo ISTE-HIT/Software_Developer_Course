@@ -1,9 +1,9 @@
-# ISTE Software Developer Course
-### ~ Abhishek, Urooj and Aayush
+# Submit all your assignments here
 
-Welcome to the repository for the ISTE Software Developer Course! Here you'll find all the recordings organized day-wise along with comprehensive notes for each session.
+Welcome to the branch of assignments here. you need to contribute your assignments here.
 
 ---
+<<<<<<< HEAD
 
 ## Table of Contents
 
@@ -386,3 +386,6 @@ Notes to be written here...
 Feel free to contribute by adding more notes or recordings! If you have any questions or suggestions, please open an issue or contact the course instructor.
 
 Happy learning! 🚀
+=======
+Just create a folder of your name and add your assignments with proper naming convention.
+>>>>>>> 6552b97edffac4ee3d61e2e6faf5aec53e7e81c9

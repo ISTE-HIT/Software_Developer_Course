@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New user</title>
+    <style>
+        * {
+            font-size: 20px;
+        }
+
+        body {
+            background-image: url(https://t4.ftcdn.net/jpg/03/57/34/39/240_F_357343965_u58BFcRrziBVMqgt6liwPHJKcIjHsPnc.jpg);
+            background-attachment: fixed;
+            background-size: 100% 100%;
+        }
+
+        h1 {
+            color: white;
+            padding-top: 150px;
+            padding-bottom: 50px;
+            text-align: center;
+            text-decoration: underline double;
+            font-size: 50px;
+        }
+
+        div {
+            color: rgb(0, 0, 0);
+            display: flex;
+            justify-content: center;
+        }
+
+        input {
+            border: 1px solid black;
+            border-right: 3px solid black;
+            border-bottom: 3px solid black;
+            margin: 10px;
+            padding: 5px;
+            margin-bottom: 20px;
+        }
+
+        label {
+            width: 150px;
+            margin: 15px;
+        }
+
+        a {
+            color: red;
+            margin-top: 15px;
+            margin-left: 30px;
+        }
+
+        a:hover {
+            color: purple;
+        }
+
+        input:hover {
+            color: purple;
+        }
+
+        input[type=date] {
+            width: 250px;
+        }
+
+        input[type=submit]:hover {
+            background-color: grey;
+            color: black;
+        }
+    </style>
+</head>
+<script>
+    function abc() {
+        alert("Account Succesfully created...")
+    }
+</script>
+
+<body>
+    <h1>Signup</h1>
+    <form action="index.html">
+        <div>
+            <label for="name">Name:</label>
+            <input type="text" name="name" id="" placeholder="Enter your name" required>
+        </div>
+        <div>
+            <label for="mob">Mob no. :</label>
+            <input type="tel" name="mob" id="" placeholder="Enter your Mobile number" required>
+        </div>
+        <div>
+            <label for="dob">Date of Birth:</label>
+            <input type="date" name="dob" id="" required>
+        </div>
+        <div>
+            <label for="Username:">Username:</label>
+            <input type="text" name="Username" id="" placeholder="Create Username" required>
+        </div>
+        <div>
+            <label for="pass">Password:</label>
+            <input type="password" name="pass" id="" placeholder="Create Password" required>
+        </div>
+        <div>
+            <label for="passconf">Confirm Password:</label>
+            <input type="password" name="passconf" id="" placeholder="Confirm your Password" required>
+        </div>
+        <div>
+            <input type="submit" value="Submit" onclick="abc()">
+            <a href="index.html">Existing user</a>
+        </div>
+    </form>
+</body>
+
+</html>

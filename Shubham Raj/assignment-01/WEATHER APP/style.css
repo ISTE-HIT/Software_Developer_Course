@@ -1,0 +1,326 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* div{
+    border: 2px solid red;
+} */
+
+body {
+    height: 100vh;
+    width: 100vw;    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.preload {
+    background: #000 no-repeat center center;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: pre 1.5s ease-in-out 0s 1s forwards alternate;
+}
+
+.pl {
+    height: 300px;
+    width: 300px;
+}
+
+.contMain {
+    height: 100vh;
+    width: 100vw;
+    font-family: "Exo 2", sans-serif;
+}
+
+.display_info {
+    display: flex;
+}
+
+.sec1 {
+    height: 100vh;
+    width: 40vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Exo 2", sans-serif;
+    font-weight: 600;
+}
+
+.secin {
+    height: 92%;
+    width: 90%;
+
+    background: linear-gradient(135deg, rgba(20, 20, 20, 0.1), rgba(0, 0, 0, 0));
+    backdrop-filter: blur(5px);
+    border: 2px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.38);
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.tempdetails {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    gap: 4vw;
+}
+
+.temp {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.tempmain {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+
+.wloc {
+    font-size: 3vw;
+    position: relative;
+    right: 9px;
+}
+
+.minmaxt {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 1.6vw;
+
+}
+
+.feels {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.9vw;
+    margin-top: -30px;
+}
+
+.sec2 {
+    height: 100vh;
+    width: 60vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+    font-family: "Exo 2", sans-serif;
+    font-weight: 600;
+}
+
+.inputfield {
+    padding: 5px;
+    padding-left: 10px;
+    height: 50px;
+    width: 40vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    border-radius: 50px;
+    position: relative;
+    z-index: 1;
+
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    backdrop-filter: blur(5px);
+    border: 2px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.38);
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+    position: relative;
+}
+
+.txtinput {
+    height: 90%;
+    width: 80%;
+    border-radius: 50px;
+    padding-left: 20px;
+    font-size: 17px;
+}
+
+.but {
+    height: 90%;
+    width: 20%;
+    border-radius: 50px;
+    background-color: aliceblue;
+    font-weight: bold;
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ph {
+    position: absolute;
+    left: 30px;
+    color: black;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.sec2inner {
+    height: 70%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: aliceblue;
+    font-size: 2.4vw;
+}
+
+.box {
+    height: 60%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.sbox {
+    height: 92%;
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: linear-gradient(135deg, rgba(20, 20, 20, 0.1), rgba(0, 0, 0, 0));
+    backdrop-filter: blur(5px);
+    border: 2px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.38);
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+
+    flex-direction: column;
+    gap: 25px;
+}
+
+.contAlert {
+    position: fixed;
+    top: 0px;
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+    z-index: 5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+.alert {
+    padding: 10px;
+    height: 90px;
+    width: 350px;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    text-align: center;
+    display: none;
+}
+
+.ntag {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    text-align: center;
+}
+
+.logos{
+    height: 50px;
+}
+
+@media screen and (max-width: 800px) {
+
+    body {
+        height: 200vh;
+    }
+
+    .tempmain {
+        font-size: 60px;
+    }
+
+    .minmaxt {
+        flex-direction: column;
+        gap: 20px;
+        font-size: 20px;
+    }
+
+    .wloc {
+        font-size: 40px;
+    }
+
+    .display_info {
+        flex-direction: column;
+    }
+
+    .tempdetails {
+        gap: 5.5vw;
+    }
+
+    .feels {
+        margin-top: 10px;
+        font-size: 20px;
+    }
+
+    .sec1,
+    .sec2 {
+        width: 100vw;
+    }
+
+    .sec1 {
+        position: relative;
+        top: 70px;
+    }
+
+    .inputfield {
+        position: fixed;
+        top: 20px;
+        width: 85%;
+        margin: 0;
+    }
+
+    .sec2inner {
+        font-size: 5vw;
+        gap: 10px;
+    }
+
+    .ntag{
+        gap: 8px;
+    }
+
+    .logos{
+        height: 30px;
+    }
+
+    .sbox{
+        background: linear-gradient(135deg, rgba(20, 20, 20, 0.8), rgba(0, 0, 0, 0.5));
+    }
+
+    .pl {
+        height: 150px;
+        width: 150px;
+    }
+
+}
