@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FORMS</title>
+  <style>
+    body{
+      background-image: url(https://wallpaperaccess.com/full/2314950.jpg);
+            background-attachment: fixed;
+            background-size: 100% 100%;
+            color: white;
+            text-align: center;
+     
+    }
+  </style>
+</head>
+<body>
+ <h2>Feedback form for Accademic Experience</h2> 
+ 
+ <form action="backend.php">
+
+ 
+
+  <div> 
+    <label for="name">Name:</label>
+     <input type="text" name="myName" id="name"></div>
+  
+  <br>
+  <div> Role: <input type="text" name="myRole"></div>
+  <br>
+  <div>
+   Email: <input type="email" name="myEmail" id="">
+  </div>
+  <br>
+  <div>
+    Date of Birth: <input type="date" name="myDate" id="">
+  </div><br>
+  
+  <div>
+    Number of internship done: <input type="number" name="myBonus" id="">
+  </div>
+ 
+  <br>
+  <div> Previous Experience if any: <input type="text" name="myExperience"></div>
+  <br>
+  <div> 
+    Are you eligible?: <input type="checkbox"name="myEligibility" >
+  </div> <br>
+  <div> 
+    <label for="car">Department</label>
+
+  <select name="myExperience" id="Department">
+    <option value="none">Select Dept</option>
+    <option value="cse">CSE</option>
+    <option value="aiml" >AIML</option>
+    <option value="ds">DS</option>
+    <option value="cs">CS</option>
+    <option value="it">IT</option>
+    <option value="swf">ECE</option>
+    <option value="swf">EE</option>
+    <option value="swf">ME</option>
+    <option value="swf">BT</option>
+    <option value="swf">FT</option>
+    <option value="swf">CIVIL</option>
+    </select>
+    <br>
+    <div>
+    <label for="year">Year</label>
+    
+  <select name="myYear" id="Year">
+    <option value="none">Select year</option>
+    <option value="1" >1st Year</option>
+    <option value="2" >2nd Year</option>
+    <option value="3">3rd year</option>
+    <option value="4">4th year</option>
+  </div>
+
+   
+
+  </select>
+  </div>
+  <br>
+  <div>
+    Male <input type="radio" name="myGender" id=""> Female <input type="radio"  name="myGender">  Others<input type="radio" name="myGender" id="">
+  </div>
+<br>
+<div>
+  Write about yourself: <br><textarea name="myText" cols="30" rows="10"id=""></textarea>
+</div>
+  <div>
+    <input type="submit" value="Submit Now" id="">           
+    <input type="reset" value="Reset Now" id="">
+       
+  </div>
+  
+  
+ 
+ </form>
+</body>
+</html>
