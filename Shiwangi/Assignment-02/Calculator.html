@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator Program</title>
+</head>
+<body>
+    <h3>To make a Calculator using Switch Case:</h3>
+    <script>
+        let num1;
+        num1=Number(prompt("Enter num1:"));
+        let num2;
+        num2=Number(prompt("Enter num2:"));
+        let op;
+        op=prompt("Enter the operator:");
+
+        function calculator(num1,num2,Calculation){
+        switch(Calculation){
+            case 'add':
+                return num1+num2;
+                break;
+            case 'subtract':
+                return num1-num2;
+                break;
+            case 'multiply':
+                return num1*num2;
+                break;
+            case 'divide':
+                if(num2!=0){
+                    return num1/num2;
+                }
+                else{
+                    console.log("undefined Value.");
+                }
+                break;
+            case 'modulus':
+                return num1%num2;
+                break;
+
+            default:
+                alert("Not a valid operator entered.");
+                break;
+        }
+    }
+    alert(calculator(num1,num2,op));
+    </script>
+</body>
+</html>
